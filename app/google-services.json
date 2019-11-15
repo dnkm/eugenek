@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473270637045",
+    "firebase_url": "https://eugenek-reddit.firebaseio.com",
+    "project_id": "eugenek-reddit",
+    "storage_bucket": "eugenek-reddit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473270637045:android:6398cdab603d84091c50bc",
+        "android_client_info": {
+          "package_name": "com.example.reddit2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473270637045-tthgfkkq8vu3u5n8keijcavtar8oc7us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9AFaE7VPLtwubvogvB73m0HJxGTqQSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473270637045-tthgfkkq8vu3u5n8keijcavtar8oc7us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
